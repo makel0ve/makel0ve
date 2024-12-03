@@ -16,6 +16,10 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+<h1>Contact with me</h1>
+
+<a href="https://t.me/+79508247099">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <!--
 **makel0ve/makel0ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
