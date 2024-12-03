@@ -5,6 +5,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 <!--
 **makel0ve/makel0ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
