@@ -1,4 +1,4 @@
-# Привет! Я Егор 👋
+# Привет! Я Егор <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
 
 Python-разработчик.
 
